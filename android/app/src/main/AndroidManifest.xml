@@ -6,6 +6,7 @@
         android:label="Custom Uploader"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
+       <actiivty/.>
         <activity
             android:name=".MainActivity"
             android:exported="true"
